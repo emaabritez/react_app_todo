@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_app_todo/static/css/main.34857505.css",
+    "main.js": "/react_app_todo/static/js/main.01ae01ed.js",
+    "index.html": "/react_app_todo/index.html",
+    "static/media/delete.svg": "/react_app_todo/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/react_app_todo/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.34857505.css.map": "/react_app_todo/static/css/main.34857505.css.map",
+    "main.01ae01ed.js.map": "/react_app_todo/static/js/main.01ae01ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34857505.css",
+    "static/js/main.01ae01ed.js"
+  ]
+}
